@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CustomArray\CustomArray\bin\Debug\net7.0\CustomArray.exe
+C:\Users\User\source\repos\CustomArray\CustomArray\bin\Debug\net7.0\CustomArray.deps.json
+C:\Users\User\source\repos\CustomArray\CustomArray\bin\Debug\net7.0\CustomArray.runtimeconfig.json
+C:\Users\User\source\repos\CustomArray\CustomArray\bin\Debug\net7.0\CustomArray.dll
+C:\Users\User\source\repos\CustomArray\CustomArray\bin\Debug\net7.0\CustomArray.pdb
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.dll
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\refint\CustomArray.dll
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.pdb
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\CustomArray.genruntimeconfig.cache
+C:\Users\User\source\repos\CustomArray\CustomArray\obj\Debug\net7.0\ref\CustomArray.dll
